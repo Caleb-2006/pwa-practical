@@ -55,6 +55,13 @@ export default function Home() {
       <main>
         <p className="eyebrow">FOUNDATION TRACK</p>
         <h1>Keep learning when the network leaves.</h1>
+        
+        <div style={{ margin: "20px 0 30px 0", fontSize: "16px", color: "#1d1d1b", lineHeight: "1.6", fontWeight: "600" }}>
+          <div>Emmanuel Caleb Adavize</div>
+          <div>Mechatronics Engineering</div>
+          <div>2024/1/100658ET</div>
+        </div>
+
         <p className="lede">Save a note, refresh the page, then test the same experience with the network turned off.</p>
         <section className="columns">
           <div>
